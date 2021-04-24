@@ -10,12 +10,12 @@
 	"limit": "20",
   "memberlimit": "1",
   "cr": "Mr.Pato-Bot",
-  "hargalimit": "500",
-  "NamaBot": "Mr.santiago",
+  "hargalimit": 0
+  "NamaBot""Mr.santiago",
 
-  "Wa1": ,https://chat.whatsapp.com/CUEQ87rQXm2FWvwVDFW3I3
-  "Wa2": https://chat.whatsapp.com/CUEQ87rQXm2FWvwVDFW3I3
+  "Wa1":chat.whatsapp.com/CUEQ87rQXm2FWvwVDFW3I3
+  "Wa2":chat.whatsapp.com/CUEQ87rQXm2FWvwVDFW3I3
   "Ovo": "123456",
   "Pulsa": "123456",
-  "Dana": "123456"
+  "Dana":123456"
 }
